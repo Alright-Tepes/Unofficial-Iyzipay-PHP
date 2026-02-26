@@ -1,4 +1,4 @@
-# Iyzipay Custom PHP Client
+# Unofficial Iyzipay PHP Payment Integration 
 
 This library allows you to integrate the Iyzico (Iyzipay) API using pure PHP and cURL without any external dependencies (like the official SDK). it is lightweight, flexible, and easy to integrate into any PHP project.
 
